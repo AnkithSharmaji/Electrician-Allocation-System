@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Amit",
+        "phoneNumber": "9876543210",
+        "zone": [],
+        "grievanceElectrician": true,
+        "assignedSites" : []
+    },
+    {
+        "name": "Rahul",
+        "phoneNumber": "9876543211",
+        "zone": [],
+        "grievanceElectrician": true,
+        "assignedSites" : []
+    },
+    {
+        "name": "Vivek",
+        "phoneNumber": "9876543212",
+        "zone": [],
+        "grievanceElectrician": true,
+        "assignedSites" : []
+    },
+    {
+        "name": "Arun",
+        "phoneNumber": "9876543213",
+        "zone": [],
+        "grievanceElectrician": true,
+        "assignedSites" : []
+    },
+    {
+        "name": "Sandeep",
+        "phoneNumber": "9876543214",
+        "zone": [
+            "Koramangala",
+            "Indiranagar"
+        ],
+        "grievanceElectrician": false,
+        "assignedSites" : []
+    },
+    {
+        "name": "Rajesh",
+        "phoneNumber": "9876543215",
+        "zone": [
+            "BTM Layout"
+        ],
+        "grievanceElectrician": false,
+        "assignedSites" : []
+    }
+]

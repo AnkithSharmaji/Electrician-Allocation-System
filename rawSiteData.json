@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Sandeep",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-10-06T00:00:00.000Z",
+        "grievance": false
+    },
+    {
+        "name": "Anand Kumar",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-03-07T00:00:00.000Z",
+        "grievance": false
+    },
+    {
+        "name": "Rajesh",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-10-14T00:00:00.000Z",
+        "grievance": true
+    },
+    {
+        "name": "Vikram Singh",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-12-15T00:00:00.000Z",
+        "grievance": false
+    },
+    {
+        "name": "Alok Sharma",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-08-04T00:00:00.000Z",
+        "grievance": false
+    },
+    {
+        "name": "Suresh Babu",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-10-18T00:00:00.000Z",
+        "grievance": true
+    },
+    {
+        "name": "Ravi Kumar",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-12-19T00:00:00.000Z",
+        "grievance": false
+    },
+    {
+        "name": "Naveen",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-03-05T00:00:00.000Z",
+        "grievance": true
+    },
+    {
+        "name": "Kishore Reddy",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-10-20T00:00:00.000Z",
+        "grievance": false
+    },
+    {
+        "name": "Vinay Kumar",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-09-15T00:00:00.000Z",
+        "grievance": true
+    },
+    {
+        "name": "Girish",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-11-15T00:00:00.000Z",
+        "grievance": false
+    },
+    {
+        "name": "Kumar Swamy",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-08-17T00:00:00.000Z",
+        "grievance": false
+    },
+    {
+        "name": "Rajendra Prasad",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-03-07T00:00:00.000Z",
+        "grievance": true
+    },
+    {
+        "name": "Raj Kumar",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-03-17T00:00:00.000Z",
+        "grievance": false
+    },
+    {
+        "name": "Ajay Kumar",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-03-15T00:00:00.000Z",
+        "grievance": true
+    },
+    {
+        "name": "Vinod Reddy",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-03-03T00:00:00.000Z",
+        "grievance": false
+    },
+    {
+        "name": "Mukesh Kumar",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-07-24T00:00:00.000Z",
+        "grievance": true
+    },
+    {
+        "name": "Saurabh Kumar",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-09-10T00:00:00.000Z",
+        "grievance": false
+    },
+    {
+        "name": "Rajesh Yadav",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-01-04T00:00:00.000Z",
+        "grievance": false
+    },
+    {
+        "name": "Kiran Kumar",
+        "phone": "9867543210",
+        "city": "Bengaluru",
+        "assignedElectritian": [],
+        "installationDate": "2023-10-18T00:00:00.000Z",
+        "grievance": true
+    }
+]
