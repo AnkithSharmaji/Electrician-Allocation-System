@@ -19,7 +19,7 @@ Clone the project
 
 - Go Into Server Folder Directory
 - npm install
-- npm server
+- npm run server
 
 <div style='page-break-after: always'></div>
 
